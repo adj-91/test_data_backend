@@ -30,4 +30,4 @@ VALUES
 /*id:27*/     ("Drop T Logo Hoodie Purple", "", "Clothing", "https://raw.githubusercontent.com/adj-91/test_data_backend/main/img/image27.jpg", 31.99, 100),
 /*id:28*/     ("Magical Mystery Tour - Large Tin Tote", "", "souvenirs", "https://raw.githubusercontent.com/adj-91/test_data_backend/main/img/image28.jpg", 12.99, 100),
 /*id:29*/     ("The Beatles Liverpool Mug", "", "souvenirs", "https://raw.githubusercontent.com/adj-91/test_data_backend/main/img/image29.jpg", 7.5, 100),
-/*id:30*/     ("John Lennon Party Glasses", "", "souvenirs", "https://raw.githubusercontent.com/adj-91/test_data_backend/main/img/image30.jpg", 29.99, 100),
+/*id:30*/     ("John Lennon Party Glasses", "", "souvenirs", "https://raw.githubusercontent.com/adj-91/test_data_backend/main/img/image30.jpg", 29.99, 100);
