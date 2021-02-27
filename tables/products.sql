@@ -4,5 +4,5 @@ product_name VARCHAR(255) NOT NULL,
 product_desc VARCHAR(255),
 img VARCHAR(255),
 category VARCHAR(255) NOT NULL,
-price INT NOT NULL,
+price DECIMAL(5,2) NOT NULL,
 stock INT NOT NULL);
